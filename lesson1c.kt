@@ -3,7 +3,7 @@ fun main() {
     //Arithmetic Operation
     val num1: Int = 50
     val num2:Int = 70
-    val num3: Int = 34
+    val num3: Int = 50
 
     val addition: Int = num1 + num2 +num3
 

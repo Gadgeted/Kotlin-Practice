@@ -1,5 +1,5 @@
 fun main() {
-    val age: Double = 2.0
+    val age: Double = 2.5
     val weight: Double = 56.4
     //Below we have if inside another if, Its called a nested If
     if (age <=18 ){

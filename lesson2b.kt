@@ -1,5 +1,5 @@
 fun main() {
-    val marks: Double = 101.0
+    val marks: Double = 90.0
 
     if (marks <30 ){
         println("You Scored $marks")
