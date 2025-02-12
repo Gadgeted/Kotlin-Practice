@@ -9,6 +9,9 @@ fun main() {
             println("You can't donate blood")
         }
         //End second if
+        //End second if
+        //End second if\
+        //End second if
     }// End First if
     else {
         println("You are Over 18")
