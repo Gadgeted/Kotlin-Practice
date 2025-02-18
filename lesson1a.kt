@@ -1,10 +1,10 @@
 fun main() {
     //Here we do not specify the data types
-    val myNum = 5     //Int
-    val myDoubleNum = 5.99   //Double
+    val myNum = 6     //Int
+    val myDoubleNum = 5.59   //Double
     val myLetter = 'A'  //Character
     val myBoolean = true  //Boolean
-    val myText = "Hello"   //String
+    val myText = "Hello World"   //String
 
     println(myNum)
     println(myDoubleNum)
