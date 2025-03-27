@@ -1,8 +1,8 @@
 fun main() {
     //Here we do not specify the data types
     val myNum = 7     //Int
-    val myDoubleNum = 5.59   //Double
-    val myLetter = 'A'  //Character
+    val myDoubleNum = 5.79   //Double
+    val myLetter = 'B'  //Character
     val myBoolean = true  //Boolean
     val myText = "Hello World"   //String
 
