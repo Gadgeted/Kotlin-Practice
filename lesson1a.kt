@@ -1,6 +1,6 @@
 fun main() {
     //Here we do not specify the data types
-    val myNum = 7     //Int
+    val myNum = 9     //Int
     val myDoubleNum = 5.79   //Double
     val myLetter = 'B'  //Character
     val myBoolean = true  //Boolean
