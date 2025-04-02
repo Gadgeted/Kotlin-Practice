@@ -3,7 +3,7 @@ fun main() {
     val myNum = 9     //Int
     val myDoubleNum = 5.79   //Double
     val myLetter = 'B'  //Character
-    val myBoolean = true  //Boolean
+    val myBoolean = false  //Boolean
     val myText = "Hello World"   //String
 
     println(myNum)
