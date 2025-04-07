@@ -1,7 +1,7 @@
 fun main() {
     val marks: Double = 90.0
 
-    if (marks <30 ){
+    if (marks <31 ){
         println("You Scored $marks")
         println("Failed")
     } else if (marks >= 30 && marks <= 50) {
